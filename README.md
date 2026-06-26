@@ -1,17 +1,17 @@
-🛒 Zepto Inventory Analysis using SQL
+Zepto Inventory Analysis using SQL
 
-📌 Project Overview
+ Project Overview
 
 This project analyzes the Zepto Inventory Dataset using PostgreSQL to extract meaningful business insights related to product pricing, discounts, inventory, and category performance.
 
- 🎯 Objectives
+  Objectives
 
 * Analyze product pricing
 * Identify discounted products
 * Perform category-wise analysis
 * Generate business insights using SQL
 
- 🛠️ Tools & Technologies
+  Tools & Technologies
 
 * PostgreSQL
 * pgAdmin 4
@@ -22,7 +22,7 @@ This project analyzes the Zepto Inventory Dataset using PostgreSQL to extract me
 
 * zepto_v2.csv – Zepto Inventory Dataset
 
- 📊 SQL Concepts Used
+  SQL Concepts Used
 
 * SELECT
 * WHERE
@@ -40,7 +40,7 @@ This project analyzes the Zepto Inventory Dataset using PostgreSQL to extract me
 * **zepto.sql** – SQL queries
 * **zepto_v2.csv** – Dataset
 
- 🔍 Key Insights
+  Key Insights
 
 * Category-wise Product Analysis
 * Discount Analysis
