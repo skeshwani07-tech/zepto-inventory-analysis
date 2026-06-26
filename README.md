@@ -51,6 +51,25 @@ This project analyzes the Zepto Inventory Dataset using PostgreSQL to extract me
 * Product Value Analysis
 * Weight-based Product Classification
 
+ Business Insights
+
+* Identified product categories contributing the most to the inventory, helping optimize stock planning.
+* Analyzed discount patterns to understand pricing strategies across different product categories.
+* Compared MRP with selling prices to identify products offering the highest customer value.
+* Detected out-of-stock products that may require timely replenishment to avoid lost sales.
+* Estimated inventory value and potential revenue across categories to support business planning.
+* Identified premium-priced products with low discounts, providing insights into pricing strategy.
+* Calculated price per gram to identify products offering the best value for customers.
+* Classified products by weight to support inventory organization and warehouse management.
+
+  Business Recommendations
+
+- Restock high-demand products that are currently out of stock.
+- Review discount strategies for products with low sales potential.
+- Focus promotions on categories with higher profit opportunities.
+- Optimize inventory levels to reduce overstocking and stockouts.
+- Monitor premium products to ensure competitive pricing.
+
 👨‍💻 Author
 
 S. Keshwani
